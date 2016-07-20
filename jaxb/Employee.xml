@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="1">
+    <contacts>
+        <contact id="1">
+            <number>One</number>
+        </contact>
+        <contact id="2">
+            <number>Two</number>
+        </contact>
+    </contacts>
+    <name>Jess Lising</name>
+    <salary>100.0</salary>
+</employee>
